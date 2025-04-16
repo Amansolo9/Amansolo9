@@ -10,9 +10,6 @@ I'm a Software Engineering student at Addis Ababa Science and Technology Univers
 - **Email**: [amana67286535@gmail.com](mailto:amana67286535@gmail.com)
 - **Telegram**: [sakazuki](https://t.me/sakazuki)
 
-## 📊 GitHub Stats
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amansolo9&show_icons=true&theme=radical)
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amansolo9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
