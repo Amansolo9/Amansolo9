@@ -4,6 +4,7 @@ I'm a Software Engineering student at Addis Ababa Science and Technology Univers
 
 ## 🌱 What I'm learning(Currently)
 - **Flutter**
+- **SvelteKit**
 - **Godot**
 
 ## 📫 How to reach me
