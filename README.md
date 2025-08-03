@@ -1,10 +1,12 @@
 # Hi there, I'm Amanuel Solomon Araya
 
-I'm a Software Engineering student at Addis Ababa Science and Technology University.
+I'm a Software Engineer graduated from Addis Ababa Science and Technology University.
 
 ## 🌱 What I'm learning(Currently)
 - **Flutter**
-- **SvelteKit**
+- **Haskell**
+- **Cardano Blockchain (Plutus)**
+- **Golang**
 - **Godot**
 
 ## 📫 How to reach me
